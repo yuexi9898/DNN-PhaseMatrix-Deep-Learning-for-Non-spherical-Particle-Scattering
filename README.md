@@ -40,9 +40,9 @@ Deep learning models for fast and accurate prediction of scattering matrix eleme
 
 ## Directory Structure
 
-project/
-├── models/                # Pre-trained models
-├── examples/             # Example code
+main/
+├── models             # Pre-trained models
+├── predict.py             # Example code
 └── README.md            # README file
 
 ## Notes
