@@ -2,6 +2,11 @@
 
 Deep learning models for fast and accurate prediction of scattering matrix elements for non-spherical particles.
 
+## Authors
+Yue Xi (School of Earth Sciences, Zhejiang University)
+Lei Bi (School of Earth Sciences, Zhejiang University)
+Wushao Lin (School of Earth Sciences, Zhejiang University)
+
 ## Model Description
 
 - Training on the database calculated by Invariant Imbedding T-matrix method (IITM) and the Improved Geometric Optics Method  (IGOM) of super-spheroids
