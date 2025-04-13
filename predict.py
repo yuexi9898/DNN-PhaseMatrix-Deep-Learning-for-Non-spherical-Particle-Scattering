@@ -14,7 +14,7 @@ def r2_metric(y_true, y_pred):
 
 #p11
 p11_model = r'...\IITMall_IGOM2p11all14_layers_lr_decay_F.h5'
-model_p11 = keras.models.load_model(p11_model,custom_objects={'r2_metric':r2_metric})   #读取模型
+model_p11 = keras.models.load_model(p11_model,custom_objects={'r2_metric':r2_metric})
 #dp12
 dp12_model = r'...\IITMall_IGOM2dp12all14_layers_lr_decayv1.h5'
 model_dp12 = keras.models.load_model(dp12_model,custom_objects={'r2_metric':r2_metric})
